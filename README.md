@@ -8,7 +8,8 @@ This website is designed to provide researchers with information about the servi
 Available Services: We offer a comprehensive suite of genomics services, including next-generation sequencing (NGS), Sanger sequencing, genotyping, gene expression analysis, and more.
 Technologies: Explore the cutting-edge technologies utilized in our facility, including Illumina sequencers, bioinformatics software, and other advanced equipment.
 Sample Requirements and SOPs: Access detailed information about sample preparation protocols and specific requirements for different services.
-Pricing: View our current service pricing structure for our OUR INVENTORY SYSTEM to help you plan your research budget.
+<br>
+Pricing: View our current service pricing structure for our  <b> analysis , sequencing and OUR INVENTORY SYSTEM </b> to help you plan your research budget.
 
 Resources: Find helpful resources such as technology descriptions, publications by the Core Facility, and relevant external links.
 Contact Us: Get in touch with the Genomics Core Facility staff for any inquiries or consultations.
