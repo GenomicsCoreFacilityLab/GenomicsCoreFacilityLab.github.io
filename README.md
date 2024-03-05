@@ -1,6 +1,3 @@
-# GenomicsCoreFacilityLab.github.io
-Official Website of the Genomics Core Facility Lab -Fully hosted on Github
-
 
 # Noguchi Memorial Institute - Genomics Core Facility Lab Website Readme
 
@@ -23,4 +20,4 @@ Additionally:
 
 This website is under development and may be subject to changes. We will update this readme accordingly.
 We welcome your feedback and suggestions. Please feel free to contact us with any ideas on how we can improve our website and services.
-Thank you for your interest in the Noguchi Memorial Institute Genomics Core Facility!
+Thank you for your interest in the Noguchi Genomics Core Facility Lab!
