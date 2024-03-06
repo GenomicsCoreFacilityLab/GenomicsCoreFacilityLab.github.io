@@ -14,7 +14,7 @@ h6 {
 
 a,
 .main-cols a {
-    color: #000F9F;
+    color: #042c5c;
 }
 
 #col-1 p, #col-3 p {
@@ -30,7 +30,7 @@ a,
 }
 
 #banner #site-name:hover {
-    color: #000F9F;
+    color: #042c5c;
 }
 
 
@@ -131,7 +131,7 @@ a,
         position: fixed;
         top: 0;
         width: 100%;
-        background: #000F9F;
+        background: #042c5c;
         min-height: 50px;
         padding: 0 6px;
         z-index: 900;
@@ -274,7 +274,7 @@ a,
             content: " &uarr;";
             width: 30px;
             height: 15px;
-            background: #000F9F;
+            background: #042c5c;
         }
 
         /* MOBILE SEARCH */
@@ -300,18 +300,21 @@ a,
         }
 
         #banner .banner #site-description {
-            margin: 0 0 10px 0;
+            margin: 20px 0 20px 10px;
             font-size: 140%;
             font-weight: normal;
             line-height: 1.2em;
             color: #555555;
             margin-bottom: 18px;
+            
         }
 
 
         #banner.has-logo .banner {
             padding: 0;
             flex: 1;
+            max-width: 100%; 
+            height: auto;
             /*display: inline-block;
             vertical-align: middle;*/
         }
@@ -320,6 +323,7 @@ a,
             padding: 0 0 0 0;
             margin-left: 2%;
             flex: 0 1 27.5%;
+            width: 100px;
             /*width: 27.5%;
             display: inline-block;
             text-align: right;
@@ -650,7 +654,7 @@ svg.show {
 
     .utility-desktop .utility-nav li:hover > span,
     .utility-desktop .utility-nav li:hover > a {
-        color: #000F9F;
+        color: #042c5c;
         text-decoration: underline;
     }
 
